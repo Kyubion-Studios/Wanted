@@ -1,27 +1,16 @@
 {
-	"pack": {
-		"pack_format": 16,
-		"supported_formats": {
-			"min_inclusive": 16,
-			"max_inclusive": 18
-		},
-		"description": [
-			{
-				"text":"Wanted",
-				"color":"#CDAF56"
-			},
-			{
-				"text":" | ",
-				"color":"dark_gray"
-			},
-			{
-				"text":"ʙʏ ",
-				"color":"yellow"
-			},
-			{
-				"text":"Nearznn",
-				"color":"aqua"
-			}
-		]
-	}
+  "pack": {
+    "pack_format": 45,
+    "supported_formats": {
+      "min_inclusive": 45,
+      "max_inclusive": 48
+    },
+    "description": [
+      { "text": "Wanted", "color": "#CDAF56" },
+      { "text": " v1.1.1", "color": "#50808E" },
+      { "text": " | ", "color": "#FAFAFF" },
+      { "text": "ʙʏ ", "color": "#E4D9FF" },
+      { "text": "Kyubion Studios", "color": "#6E0F83" }
+    ]
+  }
 }
